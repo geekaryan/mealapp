@@ -57,3 +57,14 @@
     transform: scale(1);
   }
 }
+
+
+@media only screen and (max-width: 768px){
+  .button{
+    font-size: 12px;
+    padding-left: 12px;
+    padding-right: 12px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+  }
+}
